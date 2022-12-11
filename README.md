@@ -1,4 +1,4 @@
-<p><img src="https://tenor.com/en-IN/view/aesthetic-discord-header-gif-26473588" /></p>
+<img src="img_girl.jpg" alt="Girl in a jacket">
 <h1 align="center">Hey, all! I'm Rukhsar Rahman 👋</h1>
 <h3 align="center">I'm a passionate Computer Science Engineering student from India</h3>
 
