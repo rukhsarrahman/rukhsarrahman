@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="26473588" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/aesthetic-discord-header-gif-26473588">Aesthetic Discord GIF</a>from <a href="https://tenor.com/search/aesthetic-gifs">Aesthetic GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p><img src="https://tenor.com/en-IN/view/aesthetic-discord-header-gif-26473588" /></p>
 <h1 align="center">Hey, all! I'm Rukhsar Rahman 👋</h1>
 <h3 align="center">I'm a passionate Computer Science Engineering student from India</h3>
 
